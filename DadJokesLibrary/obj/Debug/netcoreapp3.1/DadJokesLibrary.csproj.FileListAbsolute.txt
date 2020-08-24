@@ -1,0 +1,9 @@
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\bin\Debug\netcoreapp3.1\DadJokesLibrary.deps.json
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\bin\Debug\netcoreapp3.1\DadJokesLibrary.dll
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.AssemblyInfoInputs.cache
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.AssemblyInfo.cs
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\bin\Debug\netcoreapp3.1\DadJokesLibrary.pdb
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.dll
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.pdb
+C:\Users\Adarsh\source\repos\DadJokesApp\DadJokesLibrary\obj\Debug\netcoreapp3.1\DadJokesLibrary.csprojAssemblyReference.cache
